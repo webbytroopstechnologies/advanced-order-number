@@ -18,7 +18,7 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
-#### Execute Database Migration 
+#### For Migration table in database
 
 ```bash
 php artisan migrate
