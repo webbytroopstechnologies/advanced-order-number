@@ -2,8 +2,7 @@
 
 ## Requirements
 - [PHP >= 8.1.17](http://php.net/)
-- Bagisto 1.4
-- 
+- Bagisto 1.4 
 ## Quick Installation
 
 ```bash
