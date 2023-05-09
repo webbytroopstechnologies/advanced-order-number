@@ -13,6 +13,16 @@
 ```bash
 composer require webbytroopstechnologies/advanced-order-number
 ```
+#### Service Provider & Facade 
+
+Register provider and facade on your `config/app.php` file.
+```php
+'providers' => [
+    ...,
+   WebbyTroops\AdvancedOrderNumber\Providers\AdvancedOrderNumberServiceProvider::class
+]
+
+```
 #  Support and Discussion:
 If you have any query/concern/issues you can contact us anytime at
 contact@webbytroops.com
