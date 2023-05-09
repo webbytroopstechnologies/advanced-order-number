@@ -1,10 +1,11 @@
 # Bagisto Advance Order Number Module
 
 ## Requirements
-- [PHP >= 8.1.17](http://php.net/)
+- [PHP >= 8.1](http://php.net/)
 - Bagisto 1.4 
 
 ## Documentations
+- [Github Docs](https://github.com/bagisto/bagisto)
 - [Bagisto Documentation](https://devdocs.bagisto.com/1.x/packages/)
 
 ## Quick Installation
