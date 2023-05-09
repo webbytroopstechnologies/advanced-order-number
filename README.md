@@ -18,6 +18,11 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
+#### Composer
+
+```bash
+composer dump-autoload
+```
 #### For Migration table in database
 
 ```bash
