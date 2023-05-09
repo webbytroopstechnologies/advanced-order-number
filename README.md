@@ -23,6 +23,6 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
-#  Support and Discussion:
+## Support and Discussion:
 If you have any query/concern/issues you can contact us anytime at
 contact@webbytroops.com
