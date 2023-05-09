@@ -2,7 +2,7 @@
 return [
     'admin' => [
         'system' => [
-           'advanced-order-numbers' => 'Advacned Order Numbers',
+           'advanced-order-numbers' => 'Advanced Order Numbers',
             'general' => 'General',
             'order-number' => 'Custom Order Number',
             'invoice-number' => 'Custom Invoice Number',
