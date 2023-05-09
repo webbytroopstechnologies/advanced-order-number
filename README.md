@@ -18,13 +18,13 @@ Register provider and facade on your `config/app.php` file.
 ]
 
 ```
-#### Migrate Database 
+#### Execute Database Migration 
 
 ```bash
 php artisan migrate
 ```
 
-Run this command to migrate table in database!
+Run this command to make the database changes!
 ## Documentations
 - [Docs](https://store.webbytroops.com/downloadable/download/sample/sample_id/27/)
 
